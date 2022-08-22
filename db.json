@@ -1,0 +1,24 @@
+[
+        {
+          id: 5928101,
+          category: "animal welfare",
+          title: "Cat Adoption Day",
+          description: "Find your new feline friend here!",
+          location: "Meow Town",
+          date: "January 11, 2911",
+          time: "11:11",
+          petsAllowed: true,
+          organizer: "Kat Laydee",
+        },
+        {
+          id: 5928102,
+          category: "animal welfare",
+          title: "Dog Adoption Day",
+          description: "Find your new canine friend here!",
+          location: "Woof Valley",
+          date: "January 11, 2911",
+          time: "11:11",
+          petsAllowed: true,
+          organizer: "Dawg-e-boy",
+        },
+      ]
