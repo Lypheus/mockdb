@@ -8,7 +8,7 @@
           date: "January 11, 2911",
           time: "11:11",
           petsAllowed: true,
-          organizer: "Kat Laydee",
+          organizer: "Kat Laydee"
         },
         {
           id: 5928102,
@@ -19,6 +19,6 @@
           date: "January 11, 2911",
           time: "11:11",
           petsAllowed: true,
-          organizer: "Dawg-e-boy",
-        },
+          organizer: "Dawg-e-boy"
+        }
       ]
